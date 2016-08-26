@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://alfazain.github.io/atom.xml" rel="self"/>
   <link href="http://alfazain.github.io/"/>
-  <updated>2016-08-26T21:28:34+07:00</updated>
+  <updated>2016-08-26T22:13:48+07:00</updated>
   <id>http://alfazain.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Judul Post]]></title>
+    <title type="html"><![CDATA[Berjuang Di Perantauan]]></title>
     <link href="http://alfazain.github.io/blog/2016/08/26/judul-post/"/>
     <updated>2016-08-26T21:27:28+07:00</updated>
     <id>http://alfazain.github.io/blog/2016/08/26/judul-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>Hidup itu pilihan</h2>
+
+<p>Apa yang kita inginkan, pasti kita bisa raih. Asalkan punya tekad dan kemauan yang kuat untuk mencapainya, diiringi dengan doa dan keyakinan kepada Tuhan bahwa hidup kita akan bahagia.
+Kita tidak boleh bermanja manja dengan keadaan, kita tidak boleh terus menerus berada di zona nyaman. Kita harus sadar bahwa yang namanya sukses itu butuh proses dan perjuangan.
+Makanya mari kita sama sama berjuang demi masa depan indonesia.</p>
 ]]></content>
   </entry>
   
