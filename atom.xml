@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[aLFa's blog]]></title>
+  <title><![CDATA[aLfa's blog]]></title>
   <link href="http://alfazain.github.io/atom.xml" rel="self"/>
   <link href="http://alfazain.github.io/"/>
-  <updated>2016-08-27T22:59:00+07:00</updated>
+  <updated>2016-08-27T23:10:54+07:00</updated>
   <id>http://alfazain.github.io/</id>
   <author>
     <name><![CDATA[Alfa Zainul Alim]]></name>
