@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[alfa's blog]]></title>
-  <link href="http://alfazain.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: My Live | alfa's blog]]></title>
+  <link href="http://alfazain.github.io/blog/categories/my-live/atom.xml" rel="self"/>
   <link href="http://alfazain.github.io/"/>
   <updated>2016-08-28T08:13:16+07:00</updated>
   <id>http://alfazain.github.io/</id>
